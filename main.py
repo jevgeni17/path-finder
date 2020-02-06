@@ -22,7 +22,7 @@ class Graph():
 graph = Graph()
 
 edges = [
-    ('X', 'A', 7),
+    ('X', 'A', 8),
     ('X', 'B', 2),
     ('X', 'C', 3),
     ('X', 'E', 4),
